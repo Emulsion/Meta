@@ -1,2 +1,2 @@
 # Meta
-Issue tracker for Logtronics
+Issue tracker for Emulsion
